@@ -24,5 +24,5 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(3333, () => {
-  console.log('HTTP server running on localhost:3333!');
+  console.log('HTTP server running!');
 });
