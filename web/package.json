@@ -10,6 +10,7 @@
   "dependencies": {
     "@headlessui/react": "^1.6.5",
     "@octokit/rest": "^18.12.0",
+    "@tailwindcss/forms": "^0.5.2",
     "axios": "^0.27.2",
     "git": "^0.1.5",
     "html2canvas": "^1.4.1",
