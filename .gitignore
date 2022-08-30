@@ -1,0 +1,8 @@
+node_modules
+# Keep environment variables out of version control
+.env
+dist
+
+# Keep local config out of version control
+.vscode
+.eslintrc.json
